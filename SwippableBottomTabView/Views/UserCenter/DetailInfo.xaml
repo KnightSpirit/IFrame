@@ -34,7 +34,7 @@
 
         </StackLayout>
 
-        <TableView Intent="Settings" VerticalOptions="Start">
+        <TableView Intent="Settings">
             <TableRoot>
                 <TableSection Title="基本信息">
 
